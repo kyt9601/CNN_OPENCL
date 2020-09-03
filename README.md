@@ -13,8 +13,9 @@
 
 
 ## Result
- - Intel i5-7600 (4C/4T) : 34 min 47.065 sec
- - AMD Radeon RX 560 GDDR4 4G : 3 min 9.141 sec
+ |Intel i5-7600 (4C/4T)|AMD Radeon RX 560 GDDR4 4G|
+ |---------------------|--------------------------|
+ 34 min 47.065 sec|3 min 9.141 sec
 
 
 ## About this project
