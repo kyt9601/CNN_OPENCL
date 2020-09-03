@@ -2,6 +2,7 @@
  학교 멀티코어 프로그래밍 과목 수강중 학생들과 진행했던 프로젝트입니다.
  - CIFAR-10 데이터셋을 사용하는 CNN의 Validation 부분을 OpenCL로 구현한 것입니다.
 
+
 ## Environments
  - Microsoft Windows 10 X64
  - Intel i5-7600 (4C/4T)
@@ -9,9 +10,11 @@
  - AMD Radeon RX 560 GDDR4 4G
  - VS2015 Release mode X64
 
+
 ## Result
  - Intel i5-7600 (4C/4T) : 34 min 47.065 sec
  - AMD Radeon RX 560 GDDR4 4G : 3 min 9.141 sec
+
 
 ## About this project
 ![슬라이드3](https://user-images.githubusercontent.com/34763810/92110354-89b89f00-ee25-11ea-9bc4-a39824f00678.PNG)
